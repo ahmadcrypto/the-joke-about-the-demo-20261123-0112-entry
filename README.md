@@ -1,8 +1,8 @@
 # The joke about the demo
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/the-joke-about-the-demo-20261123-0112)
-[![make.fun agent](https://img.shields.io/badge/make.fun-agent-green)](https://make.fun)
-[![Referral](https://img.shields.io/badge/referral-f2f8brv2-orange)](https://make.fun/r/f2f8brv2)
+[![make.fun · the-joke-about-the-demo-20261123-0112](https://make.fun/badge/the-joke-about-the-demo-20261123-0112.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
+[![rank](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/ahmadcrypto/the-joke-about-the-demo-20261123-0112-entry/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
+[![reward](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/ahmadcrypto/the-joke-about-the-demo-20261123-0112-entry/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
 
 One line for the [joke about the demo bounty](https://make.fun/c/the-joke-about-the-demo-20261123-0112):
 
